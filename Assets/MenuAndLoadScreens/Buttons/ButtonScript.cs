@@ -8,7 +8,7 @@ public class ButtonScript : MonoBehaviour
     public void OnPlayButtonClicked()
     {
         Debug.Log("Play button clicked!");
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene(2);
     }
     public void OnMenuButtonClicked()
     {
