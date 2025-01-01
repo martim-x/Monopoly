@@ -1,14 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Local administrator\\Monopoly\\",
+  "WorkspaceRootPath": "C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|c:\\users\\local administrator\\monopoly\\assets\\scripts\\begining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\begining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\DiceScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\DiceScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|c:\\users\\local administrator\\monopoly\\assets\\menuandloadscreens\\buttons\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\menuandloadscreens\\buttons\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\Scripts\\Begining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Begining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -21,30 +29,56 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ButtonScript.cs",
-              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
-              "RelativeDocumentMoniker": "Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
-              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
-              "RelativeToolTip": "Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T09:42:24.147Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DiceScript.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\DiceScript.cs",
+              "RelativeDocumentMoniker": "Assets\\DiceScript.cs",
+              "ToolTip": "C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\DiceScript.cs",
+              "RelativeToolTip": "Assets\\DiceScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:53:44.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\NewBehaviourScript.cs",
+              "ToolTip": "C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\NewBehaviourScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:45:06.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonScript.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
+              "ToolTip": "C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
+              "RelativeToolTip": "Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:42:24.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Begining.cs",
-              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\Begining.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\Scripts\\Begining.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Begining.cs",
-              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\Begining.cs",
+              "ToolTip": "C:\\Users\\timof\\Documents\\Visual Studio Code\\Monopoly\\Assets\\Scripts\\Begining.cs",
               "RelativeToolTip": "Assets\\Scripts\\Begining.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T09:40:48.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-03T09:40:48.271Z"
             }
           ]
         }
