@@ -1,14 +1,17 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class ButtonScript : MonoBehaviour
 {
+    [SerializeField] GameObject StartTransition;
     public void OnPlayButtonClicked()
     {
         Debug.Log("Play button clicked!");
-        SceneManager.LoadScene(2);
+        StartTransition.SetActive(true);
+        Invoke("GameStart", 1f);
     }
     public void OnMenuButtonClicked()
     {
@@ -21,5 +24,9 @@ public class ButtonScript : MonoBehaviour
     public void OnExitButtonClicked()
     {
         Debug.Log("Exit button clicked!");
+    }
+    void GameStart()
+    {
+        SceneManager.LoadScene(2);
     }
 }
