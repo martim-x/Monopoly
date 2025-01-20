@@ -3,20 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\Local administrator\\Monopoly\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|c:\\users\\local administrator\\monopoly\\assets\\menuandloadscreens\\buttons\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|c:\\users\\local administrator\\monopoly\\assets\\quickoutline\\scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\quickoutline\\scripts\\outline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\menuandloadscreens\\buttons\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\menuandloadscreens\\buttons\\buttonscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\tablespin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tablespin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|c:\\users\\local administrator\\monopoly\\assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\gamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\movementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\jailcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jailcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\begining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\begining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\bgmscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bgmscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\begining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\begining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\streetcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\streetcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cards.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\diceroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\diceroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\tablespin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tablespin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\railwaycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\railwaycard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\dicemovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dicemovementscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\taxcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\taxcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\utilityscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilityscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|C:\\Users\\Local administrator\\Monopoly\\assets\\scripts\\tojailcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9435B-C119-B710-47EF-0CBD9818520D}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tojailcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +78,169 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Outline.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "RelativeDocumentMoniker": "Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "RelativeToolTip": "Assets\\QuickOutline\\Scripts\\Outline.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAqwMIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:06:52.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerScript.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerScript.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\PlayerScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerScript.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAkwFgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T23:35:03.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gameHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\gameHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\gameHandler.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\gameHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\gameHandler.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T03:00:17.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DiceMovementScript.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\DiceMovementScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DiceMovementScript.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\DiceMovementScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DiceMovementScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T02:29:06.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RailwayCard.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\RailwayCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RailwayCard.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\RailwayCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RailwayCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:58:47.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ToJailCard.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\ToJailCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ToJailCard.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\ToJailCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ToJailCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:58:46.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UtilityScript.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\UtilityScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UtilityScript.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\UtilityScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UtilityScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:58:46.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TaxCard.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\TaxCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TaxCard.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\TaxCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TaxCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:58:45.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StreetCard.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\StreetCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StreetCard.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\StreetCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StreetCard.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA8wBsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:57:31.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovementScript.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\MovementScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovementScript.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\MovementScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovementScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:58:26.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JailCard.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\JailCard.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\JailCard.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\JailCard.cs",
+              "RelativeToolTip": "Assets\\Scripts\\JailCard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T11:58:47.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DiceRoll.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\DiceRoll.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DiceRoll.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\DiceRoll.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DiceRoll.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T22:44:38.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cards.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\Cards.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Cards.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\Cards.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Cards.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T03:46:25.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "TableSpin.cs",
               "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\TableSpin.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\TableSpin.cs",
@@ -42,32 +252,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "BGMScript.cs",
               "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\BGMScript.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\BGMScript.cs",
               "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\BGMScript.cs",
               "RelativeToolTip": "Assets\\Scripts\\BGMScript.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBYAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-12T19:34:07.758Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ButtonScript.cs",
-              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
-              "RelativeDocumentMoniker": "Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
-              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
-              "RelativeToolTip": "Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T09:42:24.147Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Begining.cs",
               "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\Scripts\\Begining.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Begining.cs",
@@ -76,6 +273,19 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T09:40:48.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ButtonScript.cs",
+              "DocumentMoniker": "C:\\Users\\Local administrator\\Monopoly\\Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
+              "RelativeDocumentMoniker": "Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
+              "ToolTip": "C:\\Users\\Local administrator\\Monopoly\\Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
+              "RelativeToolTip": "Assets\\MenuAndLoadScreens\\Buttons\\ButtonScript.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA/wBEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:42:24.147Z",
+              "EditorCaption": ""
             }
           ]
         }

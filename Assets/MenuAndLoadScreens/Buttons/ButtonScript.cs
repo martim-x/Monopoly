@@ -13,20 +13,24 @@ public class ButtonScript : MonoBehaviour
         StartTransition.SetActive(true);
         Invoke("GameStart", 1f);
     }
-    public void OnMenuButtonClicked()
-    {
-        Debug.Log("Play button clicked!");
-    }
-    public void OnAboutButtonClicked()
-    {
-        Debug.Log("Play button clicked!");
-    }
     public void OnExitButtonClicked()
     {
-        Debug.Log("Exit button clicked!");
+        SceneManager.LoadScene(1);
     }
     void GameStart()
     {
         SceneManager.LoadScene(2);
+    }
+    public void TurnEnd()
+    {
+        foreach (GameObject item in GameObject.FindGameObjectsWithTag("Player"))
+        {
+            item.GetComponent<PlayerScript>().isMyMove = false; 
+            item.GetComponent<PlayerScript>().DoesDiceKnown = false;
+        }
+    }
+    public void Confirm()
+    {
+        GameObject.FindGameObjectWithTag("Alert").SetActive(false);
     }
 }

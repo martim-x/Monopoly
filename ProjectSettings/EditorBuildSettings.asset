@@ -14,10 +14,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/PlayScene.unity
     guid: c85b41724685df44daa309144f2020cc
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MenuScene.unity
     guid: b3a763d3a32468741a8ed1226e405284
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/AboutScene.unity
     guid: 395d1b44b0669c24d8cb10d58bbd79ac
   m_configObjects: {}

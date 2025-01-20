@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Path
+  - dices
+  - GameHandler
+  - Alert
+  - TurnEnd
   layers:
   - Default
   - TransparentFX
